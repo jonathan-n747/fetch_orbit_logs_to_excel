@@ -85,3 +85,6 @@ desktop.ini
 
 # Logs
 *.log
+
+# Runtime config — holds the Orbit host and API token. NEVER commit.
+orbit_config.json
